@@ -1,27 +1,27 @@
-## Student Name (or name you would preferred to be called)
+## Jacob Zukas
 
 ### Fall 2021
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course
+- Calculus
 
-- Course 2
+- Intro to data science
 
-- Course 3
+- Into to programming using python
 
-- Course 4
+- Cloud synching
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Video Games
 
-- Thing 2
+- Animals
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- My college courses <https://www.floridapoly.edu>
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2021/08/09
